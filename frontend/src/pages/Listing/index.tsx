@@ -1,6 +1,8 @@
+import Paginatigon from "components/Pagination";
+
 function Listing () {
     return (
-        <h1>Listagem</h1>
+        <Paginatigon />
     );
 }
 export default Listing;
